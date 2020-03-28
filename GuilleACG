@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Layout</title>
+		<link rel="stylesheet" href="CSS/estilos.css">
+		<!-- <style type="text/css">
+		
+		/*REGLAS CSS*/
+		
+		</style>-->
+	</head>
+	<body>
+		<header>
+			<div>
+				<img src="imagenes/K1.jpg" width="70" alt="Karthus">
+			</div>
+			<nav>
+				<ul>
+					<li><a href="#">Inicio</a></li>
+					<li><a href="#">Categoria</a></li>
+					<li><a href="#">Categoria 2</a></li>
+				</ul>
+			</nav>
+		</header>
+		<section class="wrapper">
+		<section class="main">
+		<article>
+			<h2>''KARTHUS''</h2>
+			<p><b>El Canto de la Muerte</b></p>
+		</article>
+		<article>
+			<h2><i>''''La muerte no es el final del camino, solo el principio...''''</i></h2>
+			<p>Karthus, heraldo del olvido, es un espiritu inmortal cuyas canciones pavorosas preceden el horror de su dantesca aparicion.
+			Los vivos temen la eternidad de la no muerte, pero Karthus solo ve hermosura y pureza en su abrazo, una comunion perfecta entre la vida y la muerte. 
+			Cuando emerge de las Islas de la Sombra es para llevar la dicha de la muerte a los mortales, como apostol de la no vida.</p>
+		</article>
+		</section>
+		<aside>
+			<h3>Las Islas de la Sombras</h3>
+			<p>Karthus se ha convertido en el emisario de las Islas de la Sombra, un heraldo del olvido cuyos lamentos son himnos a la gloria de la muerte. 
+			Las legiones de almas incorporeas que comanda secundan sus canticos funerarios con voces pavorosas que se extienden mas alla de la niebla negra por camposantos y mataderos de todo Valoran.</p>
+		</aside>
+		</section>
+		<footer>
+			<p>League of Legends - Historia de Karthus - 2014</p>
+		</footer>
+	</body>
+</html>
